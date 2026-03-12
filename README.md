@@ -66,7 +66,15 @@ to prevent recurrence.
 ---
 
 ## 🗂️ Risk Categories Covered
-[Coming tomorrow]
+
+| Category | Description | Relevant Frameworks & Regulations |
+|---|---|---|
+| **Data & Privacy** | AI systems process large volumes of personal data requiring classification, regulatory compliance, and appropriate due care and due diligence throughout the data lifecycle | NIST Privacy Framework, CCPA (US), HIPAA (US), GDPR (EU), DPDP (India) |
+| **Model Behavior** | Evaluates whether the AI system performs its intended function accurately, reliably, and within the boundaries of its designed capability | NIST AI RMF, NIST AI 600-1, ISO 42001 |
+| **Algorithmic Bias** | Risk that AI outputs reflect narrow patterns rather than fair and representative decision-making across diverse populations | NIST AI RMF Bias Guidance, EU AI Act, IEEE Ethics Guidelines |
+| **Security** | Encompasses cloud security controls, identity and access management, and endpoint protection across all systems interacting with the AI environment | NIST CSF 2.0, ISO 27001, CIS Controls |
+| **Governance** | Ensures formal policies are established, roles are defined, and accountability is explicitly assigned for all AI-related decisions and outcomes | NIST AI RMF GOVERN, COSO ERM, ISO 42001 |
+| **Human Impact** | Assesses whether AI operates within ethical boundaries and evaluates potential psychological, emotional, and physical consequences on the people it affects | EU AI Act Article 9, IEEE Ethics Guidelines, NIST AI 600-1 |
 
 ---
 
