@@ -43,7 +43,35 @@ This repository is a practical toolkit to do exactly that.
 ---
 
 ## 🔢 How Risks Are Scored
-[Coming tomorrow]
+
+Every risk is scored using two measures:
+
+**Likelihood** — the probability that a risk event 
+will occur in a given environment or timeframe.
+
+**Impact** — the severity of consequences on people, 
+operations, or assets if the risk event occurs.
+
+| Score | Likelihood | Impact |
+|---|---|---|
+| 1 | Rare | Negligible |
+| 2 | Unlikely | Minor |
+| 3 | Possible | Moderate |
+| 4 | Likely | Major |
+| 5 | Almost Certain | Critical |
+
+**Risk Score = Likelihood × Impact**
+
+| Score | Level |
+|---|---|
+| 1–6 | 🟢 Low |
+| 7–12 | 🟡 Medium |
+| 13–19 | 🟠 High |
+| 20–25 | 🔴 Critical |
+
+> ⚠️ Note: A low likelihood risk with catastrophic 
+> impact still requires special attention regardless 
+> of its score.
 
 ---
 
