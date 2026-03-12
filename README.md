@@ -33,7 +33,35 @@ This repository is a practical toolkit to do exactly that.
 ---
 
 ## 🧭 What is NIST AI RMF?
-[Coming tomorrow]
+
+Unlike human decision makers, AI systems cannot always 
+explain their actions or be held directly accountable. 
+A biased employee affects a few people — a biased AI 
+system affects millions at the speed of a computer.
+
+That is why the US government published the NIST AI 
+Risk Management Framework in 2023 — to give organizations 
+a structured way to govern, identify, measure and manage 
+AI risks responsibly.
+
+It has four core functions:
+
+**GOVERN** — Establish accountability, define roles, 
+and set policies before deploying any AI tool in 
+the organization.
+
+**MAP** — Identify and understand the risks an AI 
+system introduces to your people, data, and operations.
+
+**MEASURE** — Continuously monitor and score AI risks 
+to understand whether they remain within acceptable 
+risk appetite.
+
+**MANAGE** — Respond to AI risk events, notify 
+regulators where required, and apply lessons learned 
+to prevent recurrence.
+
+📖 [Official NIST AI RMF Documentation](https://airc.nist.gov/Home)
 
 ---
 
