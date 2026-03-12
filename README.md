@@ -104,7 +104,15 @@ operations, or assets if the risk event occurs.
 ---
 
 ## 🚀 How to Use This
-[Coming tomorrow]
+
+1. Download `ai-risk-register.csv`
+2. Open in Excel or Google Sheets
+3. Identify the AI tool your organization is bringing in
+4. Map each risk to that specific AI tool
+5. Apply the risk score — Likelihood × Impact
+6. Assign a risk owner for each risk
+7. Implement the recommended controls
+8. Review and update quarterly
 
 ---
 
