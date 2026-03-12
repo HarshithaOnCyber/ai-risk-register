@@ -1,6 +1,9 @@
 # 🤖 AI Risk Register — NIST AI RMF | Built by Harshitha
 
 A practical, ready-to-use AI Risk Register template mapped to the **NIST AI Risk Management Framework (AI RMF 1.0)**
+> Primary Framework: NIST AI RMF 1.0  
+> Supporting References: NIST CSF, ISO 27001, 
+> GDPR, CCPA, DPDP, EU AI Act, IEEE Ethics Guidelines
 
 ---
 
