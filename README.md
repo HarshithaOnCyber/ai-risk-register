@@ -10,6 +10,10 @@ A practical, ready-to-use AI Risk Register template mapped to the **NIST AI Risk
 ## 📁 What's Inside
 - ✅ A ready-to-use **AI Risk Register**
 - ✅ Risks mapped to **NIST AI RMF** functions
+- ✅ **Risk Scoring Methodology** — Likelihood × Impact scale
+- ✅ **NIST AI RMF Explanation** — four core functions in plain language
+- ✅ **Risk Categories** — mapped to global frameworks and regulations
+- ✅ **How to Use Guide** — step by step instructions
   
 ---
 
